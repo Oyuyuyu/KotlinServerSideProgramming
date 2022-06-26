@@ -22,7 +22,7 @@ dependencies {
 	implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
-	implementation("org.mybatis:mybatis:3.5.10")
+	implementation("org.mybatis.spring.boot:mybatis-spring-boot-starter:2.2.2")
 	implementation("org.mybatis.dynamic-sql:mybatis-dynamic-sql:1.4.0")
 	implementation("mysql:mysql-connector-java:8.0.29")
 	mybatisGenerator("org.mybatis.generator:mybatis-generator-core:1.4.1")

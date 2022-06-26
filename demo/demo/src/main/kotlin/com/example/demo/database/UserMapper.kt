@@ -1,14 +1,14 @@
 /*
  * Auto-generated file. Created by MyBatis Generator
  */
-package database
+package com.example.demo.database
 
-import database.User
-import database.UserDynamicSqlSupport.age
-import database.UserDynamicSqlSupport.id
-import database.UserDynamicSqlSupport.name
-import database.UserDynamicSqlSupport.profile
-import database.UserDynamicSqlSupport.user
+import com.example.demo.database.User
+import com.example.demo.database.UserDynamicSqlSupport.age
+import com.example.demo.database.UserDynamicSqlSupport.id
+import com.example.demo.database.UserDynamicSqlSupport.name
+import com.example.demo.database.UserDynamicSqlSupport.profile
+import com.example.demo.database.UserDynamicSqlSupport.user
 import org.apache.ibatis.annotations.Mapper
 import org.apache.ibatis.annotations.Result
 import org.apache.ibatis.annotations.ResultMap
